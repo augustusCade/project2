@@ -18,6 +18,10 @@
  * 
 */
 
+const navList = document.querySelector('#navbar__list');
+const navBar = document.getElementById("navbar__list");
+
+
 
 /**
  * End Global Variables
